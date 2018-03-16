@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <!--  配置和spring 不相关的 配置-->
+    <!-- 1.配置securityManager -->
+    <bean id="securityManager" class="org.apache.shiro.web.mgt.DefaultWebSecurityManager">
+        <property name="cacheManager" ref="cacheManager"/>
+        <property name="authenticator" ref="authenticator"/>
+        <property name="realms">
+            <list>
+                <ref bean="jdbcRealm"></ref>
+                <ref bean="secondRealm"></ref>
+            </list>
+        </property>
+    </bean>
+    <!-- 2.用ehcache作为缓存 -->
+    <bean id="cacheManager" class="org.apache.shiro.cache.ehcache.EhCacheManager">
+        <property name="cacheManagerConfigFile" value="classpath:ehcache.xml"></property>
+    </bean>
+    <!--
+        3.配置Realm
+        3.1实现了Realm接口的bean
+    -->
+    <bean id="jdbcRealm" class="com.johnny.shiro.realms.ShiroRealm">
+        <!-- 注入密码匹配器 ， 用 HashedCredentialMatcher 指定它的属性 加密的方式 MD5 还可以指定加密次数   -->
+        <property name="credentialsMatcher">
+            <bean class="org.apache.shiro.authc.credential.HashedCredentialsMatcher">
+                <property name="hashAlgorithmName" value="MD5"></property>
+            </bean>
+        </property>
+    </bean>
+
+
+    <!--配置多Realm -->
+
+    <bean id="secondRealm" class="com.johnny.shiro.realms.SecondRealm">
+        <property name="credentialsMatcher">
+            <bean class="org.apache.shiro.authc.credential.HashedCredentialsMatcher">
+                <property name="hashAlgorithmName" value="SHA1"></property>
+            </bean>
+        </property>
+    </bean>
+
+
+    <bean class="org.apache.shiro.authc.pam.ModularRealmAuthenticator" id="authenticator">
+        <!--
+        <property name="realms">
+            <list>
+                <ref bean="jdbcRealm"></ref>
+                <ref bean="secondRealm"></ref>
+            </list>
+        </property>
+        -->
+    </bean>
+
+
+    <!-- 配置和 spring相关的配置 -->
+    <!--
+     4.配置LifecycleBeanPostProcessor  可以自动的调用在 spring IOC 中配置 shiro   bean的 生命周期方法
+     -->
+    <bean id="lifecycleBeanPostProcessor" class="org.apache.shiro.spring.LifecycleBeanPostProcessor"></bean>
+    <!--
+     5.启用IOC容器中 使用 shiro的注解，但是必须在配置了 LifecycleBeanPostProcessor 之后才可以使用
+     -->
+    <bean class="org.springframework.aop.framework.autoproxy.DefaultAdvisorAutoProxyCreator"
+          depends-on="lifecycleBeanPostProcessor"></bean>
+    <bean class="org.apache.shiro.spring.security.interceptor.AuthorizationAttributeSourceAdvisor">
+        <property name="securityManager" ref="securityManager"></property>
+    </bean>
+
+    <!--
+       6.配置 shiroFilter 关键！
+       6.1 id必须和web.xml中配置的DelegatingFilterProxy 的 filet-name 一致
+           若不一致 则会抛异常，NoSuchBeanDefinitionException 因为shiro会来IOC容器中查找和<filter-name> 名字对应的filetr bean
+    -->
+    <bean id="shiroFilter" class="org.apache.shiro.spring.web.ShiroFilterFactoryBean">
+        <property name="securityManager" ref="securityManager"></property>
+        <property name="loginUrl" value="/jsp/login.jsp"></property>
+        <property name="successUrl" value="list.jsp"></property>
+        <property name="unauthorizedUrl" value="unauthorized.jsp"></property>
+        <!--
+            配置哪些 页面需要受保护
+            以及访问这些页面需要的权限
+            1.anon 可以被匿名访问
+            2.authc 必须认证（即登录) 后才可以访问的页面
+            3.logout 就是登出，退出登录的意思
+        -->
+        <property name="filterChainDefinitions">
+            <value>
+                /jsp/login.jsp = anon
+
+                <!-- 这个是登陆的方法 调用的请求，不能被认证  -->
+                /shiro/login = anon
+                /shiro/logout = logout
+
+                /jsp/user.jsp = roles[user]
+                /jsp/admin.jsp = roles[admin1]
+
+                <!--这个在前面则 覆盖了下面的，即不是login.jsp的页面 的所有页面都需要认证 则都跳转到login.jsp -->
+                /** = authc
+
+                /jsp/**/list*.jsp = anon
+            </value>
+
+        </property>
+    </bean>
+
+
+</beans>

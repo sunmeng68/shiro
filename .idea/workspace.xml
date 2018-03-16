@@ -1,0 +1,1696 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="shiro:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="de2192de-3982-4965-b8aa-a928e7942585" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/shiro$tomcat7_0.coverage" NAME="tomcat7.0 Coverage Results" MODIFIED="1520578867002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>slf4j</find>
+      <find>targetBeanName</find>
+      <find>realm</find>
+      <find>realmPrincipals</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/user.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/johnny/shiro/hellowold/IndexController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/login.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/list.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/unauthorized.jsp" />
+        <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/springmvc.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.2.5.RELEASE/spring-web-4.2.5.RELEASE.jar!/org/springframework/web/filter/DelegatingFilterProxy.class" />
+        <option value="$PROJECT_DIR$/src/main/java/com/johnny/shiro/handlers/ShiroHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/login.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/admin.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/johnny/shiro/realms/SecondRealm.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/list.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/johnny/shiro/realms/ShiroRealm.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/applicationContext.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="y" value="312" />
+    <option name="width" value="1830" />
+    <option name="height" value="1042" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="shiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shiro" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shiro" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shiro" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shiro" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shiro" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shiro" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="johnny" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shiro" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="johnny" type="462c0819:PsiDirectoryNode" />
+              <item name="shiro" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shiro" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="johnny" type="462c0819:PsiDirectoryNode" />
+              <item name="shiro" type="462c0819:PsiDirectoryNode" />
+              <item name="handlers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shiro" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="johnny" type="462c0819:PsiDirectoryNode" />
+              <item name="shiro" type="462c0819:PsiDirectoryNode" />
+              <item name="realms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shiro" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shiro" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shiro" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="jsp" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.35287356" />
+    <property name="last_opened_file_path" value="D:/software/Java_software/IDEAProject/tc_vsmp" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="RolesAuthorizationFilter&#9;PSI&#9;JAVA://org.apache.shiro.web.filter.authz.RolesAuthorizationFilter&#10;DefaultFilter&#9;PSI&#9;JAVA://org.apache.shiro.web.filter.mgt.DefaultFilter&#10;AuthenticationException&#9;PSI&#9;JAVA://javax.naming.AuthenticationException" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\johnny\Desktop\shiro\src\main\webapp\jsp" />
+      <recent name="D:\software\shiro\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.johnny.shiro.realms" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\johnny\Desktop\shiro\src\main\webapp\jsp\a" />
+      <recent name="D:\software\shiro\src\main\webapp\jsp" />
+      <recent name="D:\software\shiro\src\main\webapp" />
+      <recent name="D:\software\shiro\src\main\webapp\WEB-INF\jsp" />
+      <recent name="D:\software\shiro\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.tomcat7.0">
+    <configuration name="SecondRealm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.johnny.shiro.realms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.johnny.shiro.realms.SecondRealm" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="shiro" />
+      <envs />
+    </configuration>
+    <configuration name="ShiroRealm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.johnny.shiro.realms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.johnny.shiro.realms.ShiroRealm" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="shiro" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="tomcat7.0" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.50" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8">
+      <deployment>
+        <artifact name="shiro:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/shiro" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_shiro" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="50209" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="shiro:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.tomcat7.0" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ShiroRealm" />
+      <item index="2" class="java.lang.String" itemvalue="Application.SecondRealm" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Application.SecondRealm" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ShiroRealm" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de2192de-3982-4965-b8aa-a928e7942585" name="Default" comment="" />
+      <created>1520252394231</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1520252394231</updated>
+      <workItem from="1520252398944" duration="3075000" />
+      <workItem from="1520255488976" duration="1108000" />
+      <workItem from="1520256641173" duration="2834000" />
+      <workItem from="1520259937430" duration="3901000" />
+      <workItem from="1520311193244" duration="9813000" />
+      <workItem from="1520321425410" duration="5420000" />
+      <workItem from="1520385946097" duration="7473000" />
+      <workItem from="1520490274685" duration="8243000" />
+      <workItem from="1520574483481" duration="7826000" />
+      <workItem from="1520847242343" duration="86000" />
+      <workItem from="1521024715284" duration="6863000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="56642000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1848" height="1098" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1558011" sideWeight="0.5022548" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46222222" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32976323" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.337655" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24971814" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2917127" sideWeight="0.49774522" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13370165" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32486188" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23111612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32976323" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1558011" sideWeight="0.5022548" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46222222" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32976323" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.337655" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24971814" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13259669" sideWeight="0.49774522" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46298343" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27071825" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19278467" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-all/1.3.2/shiro-all-1.3.2.jar!/org/apache/shiro/authz/ModularRealmAuthorizer.class</url>
+          <line>246</line>
+          <properties />
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="36" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-all/1.3.2/shiro-all-1.3.2.jar!/org/apache/shiro/authc/AuthenticationException.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="13" column="11" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/org.apache.shiro.authc.AuthenticationException">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.apache.shiro.authc.AuthenticationException</OriginalElement>
+          <nodes>
+            <node x="28.0" y="86.0">java.lang.Throwable</node>
+            <node x="44.5" y="924.0">org.apache.shiro.authc.AuthenticationException</node>
+            <node x="79.5" y="734.0">org.apache.shiro.ShiroException</node>
+            <node x="0.0" y="518.0">java.lang.RuntimeException</node>
+            <node x="30.5" y="302.0">java.lang.Exception</node>
+            <node x="176.0" y="0.0">java.io.Serializable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.lang.RuntimeException" target="java.lang.Exception">
+              <point x="0.0" y="-83.0" />
+              <point x="0.0" y="83.0" />
+            </edge>
+            <edge source="java.lang.Exception" target="java.lang.Throwable">
+              <point x="0.0" y="-83.0" />
+              <point x="0.0" y="83.0" />
+            </edge>
+            <edge source="org.apache.shiro.ShiroException" target="java.lang.RuntimeException">
+              <point x="0.0" y="-70.0" />
+              <point x="0.0" y="83.0" />
+            </edge>
+            <edge source="java.lang.Throwable" target="java.io.Serializable">
+              <point x="0.0" y="-83.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="org.apache.shiro.authc.AuthenticationException" target="org.apache.shiro.ShiroException">
+              <point x="0.0" y="-70.0" />
+              <point x="0.0" y="70.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-302.0" y="851.0" />
+          <SelectedNodes>
+            <node>org.apache.shiro.authc.AuthenticationException</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Constructors</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="61" lean-forward="false" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-all/1.3.2/shiro-all-1.3.2.jar!/org/apache/shiro/authc/AuthenticationListener.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="9" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-all/1.3.2/shiro-all-1.3.2.jar!/org/apache/shiro/authc/UsernamePasswordToken.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="62" column="8" lean-forward="false" selection-start-line="62" selection-start-column="8" selection-end-line="62" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.johnny.shiro.handlers.ShiroHandler">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.johnny.shiro.handlers.ShiroHandler</OriginalElement>
+          <nodes>
+            <node x="" y="">org.springframework.web.bind.annotation.RequestMapping</node>
+            <node x="" y="">org.springframework.stereotype.Controller</node>
+            <node x="" y="">com.johnny.shiro.handlers.ShiroHandler</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="173.0" y="102.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.johnny.shiro.realms.ShiroRealm">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.johnny.shiro.realms.ShiroRealm</OriginalElement>
+          <nodes>
+            <node x="956.75" y="294.0">org.apache.shiro.util.Initializable</node>
+            <node x="591.0" y="1324.0">com.johnny.shiro.realms.ShiroRealm</node>
+            <node x="1220.0" y="26.0">org.apache.shiro.authc.LogoutAware</node>
+            <node x="651.0" y="0.0">org.apache.shiro.realm.Realm</node>
+            <node x="499.75" y="164.0">org.apache.shiro.realm.CachingRealm</node>
+            <node x="391.0" y="26.0">org.apache.shiro.util.Nameable</node>
+            <node x="0.0" y="26.0">org.apache.shiro.cache.CacheManagerAware</node>
+            <node x="530.5" y="536.0">org.apache.shiro.realm.AuthenticatingRealm</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.johnny.shiro.realms.ShiroRealm" target="org.apache.shiro.realm.AuthenticatingRealm">
+              <point x="0.0" y="-31.0" />
+              <point x="0.0" y="369.0" />
+            </edge>
+            <edge source="org.apache.shiro.realm.AuthenticatingRealm" target="org.apache.shiro.realm.CachingRealm">
+              <point x="-172.75" y="-369.0" />
+              <point x="703.25" y="511.0" />
+              <point x="718.25" y="511.0" />
+              <point x="0.0" y="161.0" />
+            </edge>
+            <edge source="org.apache.shiro.realm.CachingRealm" target="org.apache.shiro.cache.CacheManagerAware">
+              <point x="-163.875" y="-161.0" />
+              <point x="554.375" y="144.0" />
+              <point x="185.5" y="144.0" />
+              <point x="0.0" y="31.0" />
+            </edge>
+            <edge source="org.apache.shiro.realm.CachingRealm" target="org.apache.shiro.authc.LogoutAware">
+              <point x="163.875" y="-161.0" />
+              <point x="882.125" y="144.0" />
+              <point x="1389.5" y="144.0" />
+              <point x="0.0" y="31.0" />
+            </edge>
+            <edge source="org.apache.shiro.realm.AuthenticatingRealm" target="org.apache.shiro.util.Initializable">
+              <point x="172.75" y="-369.0" />
+              <point x="1048.75" y="511.0" />
+              <point x="1033.75" y="511.0" />
+              <point x="0.0" y="31.0" />
+            </edge>
+            <edge source="org.apache.shiro.realm.CachingRealm" target="org.apache.shiro.realm.Realm">
+              <point x="54.625" y="-161.0" />
+              <point x="772.875" y="134.0" />
+              <point x="925.5" y="134.0" />
+              <point x="0.0" y="57.0" />
+            </edge>
+            <edge source="org.apache.shiro.realm.CachingRealm" target="org.apache.shiro.util.Nameable">
+              <point x="-54.625" y="-161.0" />
+              <point x="663.625" y="134.0" />
+              <point x="511.0" y="134.0" />
+              <point x="0.0" y="31.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="315.0" y="803.0" />
+          <SelectedNodes>
+            <node>com.johnny.shiro.realms.ShiroRealm</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-all/1.3.2/shiro-all-1.3.2.jar!/org/apache/shiro/authc/credential/SimpleCredentialsMatcher.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="46" column="19" lean-forward="false" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-all/1.3.2/shiro-all-1.3.2.jar!/org/apache/shiro/authc/SimpleAuthenticationInfo.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-all/1.3.2/shiro-all-1.3.2.jar!/org/apache/shiro/crypto/hash/SimpleHash.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="42" column="57" lean-forward="false" selection-start-line="42" selection-start-column="51" selection-end-line="42" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/org.apache.shiro.realm.AuthenticatingRealm">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.apache.shiro.realm.AuthenticatingRealm</OriginalElement>
+          <nodes>
+            <node x="1013.0" y="294.0">org.apache.shiro.util.Initializable</node>
+            <node x="260.0" y="0.0">org.apache.shiro.realm.Realm</node>
+            <node x="1220.0" y="26.0">org.apache.shiro.authc.LogoutAware</node>
+            <node x="556.0" y="164.0">org.apache.shiro.realm.CachingRealm</node>
+            <node x="0.0" y="26.0">org.apache.shiro.util.Nameable</node>
+            <node x="829.0" y="26.0">org.apache.shiro.cache.CacheManagerAware</node>
+            <node x="586.75" y="536.0">org.apache.shiro.realm.AuthenticatingRealm</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="org.apache.shiro.realm.AuthenticatingRealm" target="org.apache.shiro.realm.CachingRealm">
+              <point x="-172.75" y="-369.0" />
+              <point x="759.5" y="511.0" />
+              <point x="774.5" y="511.0" />
+              <point x="0.0" y="161.0" />
+            </edge>
+            <edge source="org.apache.shiro.realm.CachingRealm" target="org.apache.shiro.cache.CacheManagerAware">
+              <point x="54.625" y="-161.0" />
+              <point x="829.125" y="134.0" />
+              <point x="1014.5" y="134.0" />
+              <point x="0.0" y="31.0" />
+            </edge>
+            <edge source="org.apache.shiro.realm.AuthenticatingRealm" target="org.apache.shiro.util.Initializable">
+              <point x="172.75" y="-369.0" />
+              <point x="1105.0" y="511.0" />
+              <point x="1090.0" y="511.0" />
+              <point x="0.0" y="31.0" />
+            </edge>
+            <edge source="org.apache.shiro.realm.CachingRealm" target="org.apache.shiro.authc.LogoutAware">
+              <point x="163.875" y="-161.0" />
+              <point x="938.375" y="144.0" />
+              <point x="1389.5" y="144.0" />
+              <point x="0.0" y="31.0" />
+            </edge>
+            <edge source="org.apache.shiro.realm.CachingRealm" target="org.apache.shiro.realm.Realm">
+              <point x="-54.625" y="-161.0" />
+              <point x="719.875" y="134.0" />
+              <point x="534.5" y="134.0" />
+              <point x="0.0" y="57.0" />
+            </edge>
+            <edge source="org.apache.shiro.realm.CachingRealm" target="org.apache.shiro.util.Nameable">
+              <point x="-163.875" y="-161.0" />
+              <point x="610.625" y="144.0" />
+              <point x="120.0" y="144.0" />
+              <point x="0.0" y="31.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.1" x="862.0" y="1182.0" />
+          <SelectedNodes>
+            <node>org.apache.shiro.cache.CacheManagerAware</node>
+            <node>org.apache.shiro.realm.AuthenticatingRealm</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/org.apache.shiro.mgt.AuthenticatingSecurityManager">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.apache.shiro.mgt.AuthenticatingSecurityManager</OriginalElement>
+          <nodes>
+            <node x="" y="">org.apache.shiro.mgt.CachingSecurityManager</node>
+            <node x="" y="">org.apache.shiro.mgt.SecurityManager</node>
+            <node x="" y="">org.apache.shiro.authz.Authorizer</node>
+            <node x="" y="">org.apache.shiro.authc.Authenticator</node>
+            <node x="" y="">org.apache.shiro.mgt.AuthenticatingSecurityManager</node>
+            <node x="" y="">org.apache.shiro.util.Destroyable</node>
+            <node x="" y="">org.apache.shiro.cache.CacheManagerAware</node>
+            <node x="" y="">org.apache.shiro.event.EventBusAware</node>
+            <node x="" y="">org.apache.shiro.session.mgt.SessionManager</node>
+            <node x="" y="">org.apache.shiro.mgt.RealmSecurityManager</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="475.0" y="190.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/org.apache.shiro.authc.pam.ModularRealmAuthenticator">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.apache.shiro.authc.pam.ModularRealmAuthenticator</OriginalElement>
+          <nodes>
+            <node x="" y="">org.apache.shiro.authc.pam.ModularRealmAuthenticator</node>
+            <node x="" y="">org.apache.shiro.authc.AbstractAuthenticator</node>
+            <node x="" y="">org.apache.shiro.authc.Authenticator</node>
+            <node x="" y="">org.apache.shiro.authc.LogoutAware</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="173.0" y="104.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/org.apache.shiro.mgt.DefaultSecurityManager">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.apache.shiro.mgt.DefaultSecurityManager</OriginalElement>
+          <nodes>
+            <node x="446.0" y="430.0">org.apache.shiro.mgt.AuthorizingSecurityManager</node>
+            <node x="457.5" y="516.0">org.apache.shiro.mgt.SessionsSecurityManager</node>
+            <node x="462.5" y="602.0">org.apache.shiro.mgt.DefaultSecurityManager</node>
+            <node x="0.0" y="0.0">org.apache.shiro.authz.Authorizer</node>
+            <node x="434.5" y="344.0">org.apache.shiro.mgt.AuthenticatingSecurityManager</node>
+            <node x="797.0" y="86.0">org.apache.shiro.util.Destroyable</node>
+            <node x="365.0" y="86.0">org.apache.shiro.cache.CacheManagerAware</node>
+            <node x="603.0" y="86.0">org.apache.shiro.event.EventBusAware</node>
+            <node x="466.0" y="258.0">org.apache.shiro.mgt.RealmSecurityManager</node>
+            <node x="158.0" y="86.0">org.apache.shiro.mgt.SecurityManager</node>
+            <node x="459.5" y="172.0">org.apache.shiro.mgt.CachingSecurityManager</node>
+            <node x="363.0" y="0.0">org.apache.shiro.authc.Authenticator</node>
+            <node x="160.0" y="0.0">org.apache.shiro.session.mgt.SessionManager</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="org.apache.shiro.mgt.SecurityManager" target="org.apache.shiro.authc.Authenticator">
+              <point x="62.333333333333314" y="-18.0" />
+              <point x="313.8333333333333" y="61.0" />
+              <point x="445.0" y="61.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="org.apache.shiro.mgt.CachingSecurityManager" target="org.apache.shiro.event.EventBusAware">
+              <point x="30.625" y="-18.0" />
+              <point x="612.625" y="142.0" />
+              <point x="690.0" y="142.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="org.apache.shiro.mgt.AuthenticatingSecurityManager" target="org.apache.shiro.mgt.RealmSecurityManager">
+              <point x="0.0" y="-18.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="org.apache.shiro.mgt.CachingSecurityManager" target="org.apache.shiro.mgt.SecurityManager">
+              <point x="-91.875" y="-18.0" />
+              <point x="490.125" y="152.0" />
+              <point x="251.5" y="152.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="org.apache.shiro.mgt.AuthorizingSecurityManager" target="org.apache.shiro.mgt.AuthenticatingSecurityManager">
+              <point x="0.0" y="-18.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="org.apache.shiro.mgt.SecurityManager" target="org.apache.shiro.authz.Authorizer">
+              <point x="-62.33333333333334" y="-18.0" />
+              <point x="189.16666666666663" y="61.0" />
+              <point x="70.0" y="61.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="org.apache.shiro.mgt.CachingSecurityManager" target="org.apache.shiro.cache.CacheManagerAware">
+              <point x="-30.625" y="-18.0" />
+              <point x="551.375" y="142.0" />
+              <point x="474.0" y="142.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="org.apache.shiro.mgt.SessionsSecurityManager" target="org.apache.shiro.mgt.AuthorizingSecurityManager">
+              <point x="0.0" y="-18.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="org.apache.shiro.mgt.CachingSecurityManager" target="org.apache.shiro.util.Destroyable">
+              <point x="91.875" y="-18.0" />
+              <point x="673.875" y="152.0" />
+              <point x="872.5" y="152.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="org.apache.shiro.mgt.SecurityManager" target="org.apache.shiro.session.mgt.SessionManager">
+              <point x="0.0" y="-18.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="org.apache.shiro.mgt.DefaultSecurityManager" target="org.apache.shiro.mgt.SessionsSecurityManager">
+              <point x="0.0" y="-18.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="org.apache.shiro.mgt.RealmSecurityManager" target="org.apache.shiro.mgt.CachingSecurityManager">
+              <point x="0.0" y="-18.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-2.0" y="137.0" />
+          <SelectedNodes>
+            <node>org.apache.shiro.mgt.DefaultSecurityManager</node>
+            <node>org.apache.shiro.session.mgt.SessionManager</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/org.apache.shiro.authc.AbstractAuthenticator">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.apache.shiro.authc.AbstractAuthenticator</OriginalElement>
+          <nodes>
+            <node x="" y="">org.apache.shiro.authc.AbstractAuthenticator</node>
+            <node x="" y="">org.apache.shiro.authc.Authenticator</node>
+            <node x="" y="">org.apache.shiro.authc.LogoutAware</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="173.0" y="61.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-all/1.3.2/shiro-all-1.3.2.jar!/org/apache/shiro/realm/ldap/AbstractLdapRealm.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="18" column="22" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-all/1.3.2/shiro-all-1.3.2.jar!/org/apache/shiro/realm/Realm.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="16" column="23" lean-forward="false" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.johnny.shiro.realms.SecondRealm">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.johnny.shiro.realms.SecondRealm</OriginalElement>
+          <nodes>
+            <node x="74.75" y="86.0">org.apache.shiro.util.Initializable</node>
+            <node x="339.0" y="0.0">org.apache.shiro.realm.Realm</node>
+            <node x="0.0" y="0.0">org.apache.shiro.authc.LogoutAware</node>
+            <node x="152.75" y="258.0">com.johnny.shiro.realms.SecondRealm</node>
+            <node x="238.75" y="86.0">org.apache.shiro.realm.CachingRealm</node>
+            <node x="182.0" y="0.0">org.apache.shiro.util.Nameable</node>
+            <node x="467.0" y="0.0">org.apache.shiro.cache.CacheManagerAware</node>
+            <node x="126.25" y="172.0">org.apache.shiro.realm.AuthenticatingRealm</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="org.apache.shiro.realm.AuthenticatingRealm" target="org.apache.shiro.realm.CachingRealm">
+              <point x="54.0" y="-18.0" />
+              <point x="288.25" y="147.0" />
+              <point x="321.75" y="147.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="com.johnny.shiro.realms.SecondRealm" target="org.apache.shiro.realm.AuthenticatingRealm">
+              <point x="0.0" y="-18.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="org.apache.shiro.realm.CachingRealm" target="org.apache.shiro.cache.CacheManagerAware">
+              <point x="62.25" y="-18.0" />
+              <point x="384.0" y="66.0" />
+              <point x="576.0" y="66.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="org.apache.shiro.realm.AuthenticatingRealm" target="org.apache.shiro.util.Initializable">
+              <point x="-54.0" y="-18.0" />
+              <point x="180.25" y="147.0" />
+              <point x="146.75" y="147.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="org.apache.shiro.realm.CachingRealm" target="org.apache.shiro.authc.LogoutAware">
+              <point x="-62.25" y="-18.0" />
+              <point x="259.5" y="66.0" />
+              <point x="81.0" y="66.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="org.apache.shiro.realm.CachingRealm" target="org.apache.shiro.realm.Realm">
+              <point x="20.75" y="-18.0" />
+              <point x="342.5" y="56.0" />
+              <point x="393.0" y="56.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="org.apache.shiro.realm.CachingRealm" target="org.apache.shiro.util.Nameable">
+              <point x="-20.75" y="-18.0" />
+              <point x="301.0" y="56.0" />
+              <point x="250.5" y="56.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-133.0" y="-21.0" />
+          <SelectedNodes>
+            <node>com.johnny.shiro.realms.SecondRealm</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-all/1.3.2/shiro-all-1.3.2.jar!/org/apache/shiro/web/mgt/WebSecurityManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-all/1.3.2/shiro-all-1.3.2.jar!/org/apache/shiro/web/mgt/DefaultWebSecurityManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="36" column="13" lean-forward="false" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.5.RELEASE/spring-beans-4.2.5.RELEASE.jar!/org/springframework/beans/BeanWrapperImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="206" column="0" lean-forward="false" selection-start-line="206" selection-start-column="0" selection-end-line="206" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/org.apache.shiro.web.mgt.DefaultWebSecurityManager">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.apache.shiro.web.mgt.DefaultWebSecurityManager</OriginalElement>
+          <nodes>
+            <node x="261.02499999999975" y="534.0">org.apache.shiro.mgt.AuthorizingSecurityManager</node>
+            <node x="233.5249999999997" y="646.0">org.apache.shiro.mgt.SessionsSecurityManager</node>
+            <node x="184.52499999999964" y="758.0">org.apache.shiro.mgt.DefaultSecurityManager</node>
+            <node x="794.8375" y="0.0">org.apache.shiro.authz.Authorizer</node>
+            <node x="249.5249999999998" y="422.0">org.apache.shiro.mgt.AuthenticatingSecurityManager</node>
+            <node x="432.0" y="86.0">org.apache.shiro.util.Destroyable</node>
+            <node x="637.3125" y="198.0">org.apache.shiro.web.mgt.WebSecurityManager</node>
+            <node x="194.00000000000006" y="86.0">org.apache.shiro.cache.CacheManagerAware</node>
+            <node x="0.0" y="86.0">org.apache.shiro.event.EventBusAware</node>
+            <node x="258.02499999999986" y="310.0">org.apache.shiro.mgt.RealmSecurityManager</node>
+            <node x="607.5625" y="86.0">org.apache.shiro.mgt.SecurityManager</node>
+            <node x="244.52499999999992" y="172.0">org.apache.shiro.mgt.CachingSecurityManager</node>
+            <node x="610.8375" y="0.0">org.apache.shiro.authc.Authenticator</node>
+            <node x="407.8375" y="0.0">org.apache.shiro.session.mgt.SessionManager</node>
+            <node x="383.5249999999998" y="948.0">org.apache.shiro.web.mgt.DefaultWebSecurityManager</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="org.apache.shiro.mgt.SecurityManager" target="org.apache.shiro.authc.Authenticator">
+              <point x="0.0" y="-18.0" />
+              <point x="701.0625" y="61.0" />
+              <point x="692.8375" y="61.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="org.apache.shiro.web.mgt.WebSecurityManager" target="org.apache.shiro.mgt.SecurityManager">
+              <point x="0.0" y="-18.0" />
+              <point x="46.75" y="18.0" />
+            </edge>
+            <edge source="org.apache.shiro.mgt.AuthenticatingSecurityManager" target="org.apache.shiro.mgt.RealmSecurityManager">
+              <point x="5.6843418860808015E-14" y="-31.0" />
+              <point x="0.0" y="31.0" />
+            </edge>
+            <edge source="org.apache.shiro.mgt.AuthorizingSecurityManager" target="org.apache.shiro.mgt.AuthenticatingSecurityManager">
+              <point x="5.6843418860808015E-14" y="-31.0" />
+              <point x="0.0" y="31.0" />
+            </edge>
+            <edge source="org.apache.shiro.mgt.SessionsSecurityManager" target="org.apache.shiro.mgt.AuthorizingSecurityManager">
+              <point x="5.6843418860808015E-14" y="-31.0" />
+              <point x="0.0" y="31.0" />
+            </edge>
+            <edge source="org.apache.shiro.mgt.SecurityManager" target="org.apache.shiro.session.mgt.SessionManager">
+              <point x="-62.33333333333337" y="-18.0" />
+              <point x="638.7291666666666" y="61.0" />
+              <point x="499.3375" y="61.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="org.apache.shiro.mgt.CachingSecurityManager" target="org.apache.shiro.util.Destroyable">
+              <point x="38.12500000000006" y="-44.0" />
+              <point x="435.15" y="142.0" />
+              <point x="507.5" y="142.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="org.apache.shiro.mgt.DefaultSecurityManager" target="org.apache.shiro.mgt.SessionsSecurityManager">
+              <point x="5.6843418860808015E-14" y="-70.0" />
+              <point x="0.0" y="31.0" />
+            </edge>
+            <edge source="org.apache.shiro.mgt.RealmSecurityManager" target="org.apache.shiro.mgt.CachingSecurityManager">
+              <point x="5.6843418860808015E-14" y="-31.0" />
+              <point x="0.0" y="44.0" />
+            </edge>
+            <edge source="org.apache.shiro.mgt.CachingSecurityManager" target="org.apache.shiro.event.EventBusAware">
+              <point x="-114.37499999999994" y="-44.0" />
+              <point x="282.65" y="152.0" />
+              <point x="87.0" y="152.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="org.apache.shiro.web.mgt.DefaultWebSecurityManager" target="org.apache.shiro.web.mgt.WebSecurityManager">
+              <point x="77.5" y="-70.0" />
+              <point x="616.0249999999999" y="923.0" />
+              <point x="747.8125" y="923.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="org.apache.shiro.mgt.CachingSecurityManager" target="org.apache.shiro.mgt.SecurityManager">
+              <point x="114.37500000000006" y="-44.0" />
+              <point x="511.4" y="152.0" />
+              <point x="654.3125" y="152.0" />
+              <point x="-46.75" y="18.0" />
+            </edge>
+            <edge source="org.apache.shiro.web.mgt.DefaultWebSecurityManager" target="org.apache.shiro.mgt.DefaultSecurityManager">
+              <point x="-77.5" y="-70.0" />
+              <point x="461.0249999999998" y="923.0" />
+              <point x="397.02499999999964" y="923.0" />
+              <point x="0.0" y="70.0" />
+            </edge>
+            <edge source="org.apache.shiro.mgt.SecurityManager" target="org.apache.shiro.authz.Authorizer">
+              <point x="62.33333333333337" y="-18.0" />
+              <point x="763.3958333333334" y="61.0" />
+              <point x="864.8375" y="61.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="org.apache.shiro.mgt.CachingSecurityManager" target="org.apache.shiro.cache.CacheManagerAware">
+              <point x="-38.12499999999994" y="-44.0" />
+              <point x="358.9" y="152.0" />
+              <point x="303.00000000000006" y="152.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="40.0" y="527.0" />
+          <SelectedNodes>
+            <node>org.apache.shiro.mgt.DefaultSecurityManager</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-all/1.3.2/shiro-all-1.3.2.jar!/org/apache/shiro/mgt/RealmSecurityManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="23" column="39" lean-forward="true" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/user.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/admin.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.3.2/shiro-core-1.3.2.jar!/org/apache/shiro/subject/SimplePrincipalCollection.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="62" column="48" lean-forward="false" selection-start-line="62" selection-start-column="48" selection-end-line="62" selection-end-column="48" />
+          <folding>
+            <element signature="e#1844#1845#0" expanded="true" />
+            <element signature="e#1913#1914#0" expanded="true" />
+            <element signature="e#6809#6810#0" expanded="true" />
+            <element signature="e#6855#6856#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/johnny/shiro/realms/SecondRealm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="53" column="74" lean-forward="false" selection-start-line="53" selection-start-column="74" selection-end-line="53" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.2.5.RELEASE/spring-webmvc-4.2.5.RELEASE.jar!/org/springframework/web/servlet/FrameworkServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="540" column="0" lean-forward="false" selection-start-line="540" selection-start-column="0" selection-end-line="540" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-all/1.3.2/shiro-all-1.3.2.jar!/org/apache/shiro/mgt/DefaultSecurityManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="146" column="29" lean-forward="true" selection-start-line="146" selection-start-column="29" selection-end-line="146" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-all/1.3.2/shiro-all-1.3.2.jar!/org/apache/shiro/mgt/AuthenticatingSecurityManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="42" column="39" lean-forward="true" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-all/1.3.2/shiro-all-1.3.2.jar!/org/apache/shiro/authc/AbstractAuthenticator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="76" column="38" lean-forward="true" selection-start-line="76" selection-start-column="38" selection-end-line="76" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-all/1.3.2/shiro-all-1.3.2.jar!/org/apache/shiro/authc/pam/ModularRealmAuthenticator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="58" column="49" lean-forward="false" selection-start-line="58" selection-start-column="49" selection-end-line="58" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-all/1.3.2/shiro-all-1.3.2.jar!/org/apache/shiro/authc/credential/HashedCredentialsMatcher.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="104" column="30" lean-forward="false" selection-start-line="104" selection-start-column="30" selection-end-line="104" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-all/1.3.2/shiro-all-1.3.2.jar!/org/apache/shiro/web/servlet/ShiroHttpServletRequest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="69" column="0" lean-forward="false" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/johnny/shiro/handlers/ShiroHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="31" column="31" lean-forward="false" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="64" lean-forward="false" selection-start-line="18" selection-start-column="64" selection-end-line="18" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-all/1.3.2/shiro-all-1.3.2.jar!/org/apache/shiro/realm/AuthenticatingRealm.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-all/1.3.2/shiro-all-1.3.2.jar!/org/apache/shiro/util/CollectionUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="20" column="51" lean-forward="true" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-all/1.3.2/shiro-all-1.3.2.jar!/org/apache/shiro/web/filter/mgt/DefaultFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="34" column="34" lean-forward="false" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="88" column="46" lean-forward="false" selection-start-line="88" selection-start-column="24" selection-end-line="88" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.lang.String">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.lang.String</OriginalElement>
+          <nodes>
+            <node x="" y="">java.lang.CharSequence</node>
+            <node x="" y="">java.lang.Comparable</node>
+            <node x="" y="">java.lang.String</node>
+            <node x="" y="">java.io.Serializable</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="252.5" y="61.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/johnny/shiro/realms/ShiroRealm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="88" column="45" lean-forward="false" selection-start-line="88" selection-start-column="45" selection-end-line="88" selection-end-column="45" />
+          <folding>
+            <element signature="e#3177#3185#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/org.apache.shiro.authz.ModularRealmAuthorizer">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.apache.shiro.authz.ModularRealmAuthorizer</OriginalElement>
+          <nodes>
+            <node x="217.5" y="86.0">org.apache.shiro.authz.ModularRealmAuthorizer</node>
+            <node x="431.0" y="0.0">org.apache.shiro.authz.permission.RolePermissionResolverAware</node>
+            <node x="271.0" y="0.0">org.apache.shiro.authz.Authorizer</node>
+            <node x="0.0" y="0.0">org.apache.shiro.authz.permission.PermissionResolverAware</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="org.apache.shiro.authz.ModularRealmAuthorizer" target="org.apache.shiro.authz.Authorizer">
+              <point x="0.0" y="-18.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="org.apache.shiro.authz.ModularRealmAuthorizer" target="org.apache.shiro.authz.permission.PermissionResolverAware">
+              <point x="-82.33333333333331" y="-18.0" />
+              <point x="258.6666666666667" y="61.0" />
+              <point x="125.5" y="61.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="org.apache.shiro.authz.ModularRealmAuthorizer" target="org.apache.shiro.authz.permission.RolePermissionResolverAware">
+              <point x="82.33333333333331" y="-18.0" />
+              <point x="423.3333333333333" y="61.0" />
+              <point x="573.0" y="61.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="343.0" y="56.5" />
+          <SelectedNodes>
+            <node>org.apache.shiro.authz.ModularRealmAuthorizer</node>
+            <node>org.apache.shiro.authz.permission.PermissionResolverAware</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/org.apache.shiro.realm.AuthorizingRealm">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.apache.shiro.realm.AuthorizingRealm</OriginalElement>
+          <nodes>
+            <node x="588.0" y="86.0">org.apache.shiro.util.Initializable</node>
+            <node x="706.5" y="172.0">org.apache.shiro.authz.permission.RolePermissionResolverAware</node>
+            <node x="0.0" y="172.0">org.apache.shiro.authz.Authorizer</node>
+            <node x="502.25" y="0.0">org.apache.shiro.realm.Realm</node>
+            <node x="630.25" y="0.0">org.apache.shiro.authc.LogoutAware</node>
+            <node x="402.0" y="86.0">org.apache.shiro.realm.CachingRealm</node>
+            <node x="442.5" y="258.0">org.apache.shiro.realm.AuthorizingRealm</node>
+            <node x="345.25" y="0.0">org.apache.shiro.util.Nameable</node>
+            <node x="431.0" y="172.0">org.apache.shiro.realm.AuthenticatingRealm</node>
+            <node x="107.25" y="0.0">org.apache.shiro.cache.CacheManagerAware</node>
+            <node x="160.0" y="172.0">org.apache.shiro.authz.permission.PermissionResolverAware</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="org.apache.shiro.realm.AuthenticatingRealm" target="org.apache.shiro.realm.CachingRealm">
+              <point x="-54.0" y="-18.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="org.apache.shiro.realm.AuthorizingRealm" target="org.apache.shiro.authz.permission.PermissionResolverAware">
+              <point x="-38.599999999999966" y="-18.0" />
+              <point x="500.40000000000003" y="228.0" />
+              <point x="285.5" y="228.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="org.apache.shiro.realm.CachingRealm" target="org.apache.shiro.cache.CacheManagerAware">
+              <point x="-62.25" y="-18.0" />
+              <point x="422.75" y="66.0" />
+              <point x="216.25" y="66.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="org.apache.shiro.realm.AuthorizingRealm" target="org.apache.shiro.util.Initializable">
+              <point x="38.60000000000002" y="-18.0" />
+              <point x="577.6" y="228.0" />
+              <point x="696.0" y="228.0" />
+              <point x="36.0" y="18.0" />
+            </edge>
+            <edge source="org.apache.shiro.realm.AuthenticatingRealm" target="org.apache.shiro.util.Initializable">
+              <point x="54.0" y="-18.0" />
+              <point x="593.0" y="147.0" />
+              <point x="624.0" y="147.0" />
+              <point x="-36.0" y="18.0" />
+            </edge>
+            <edge source="org.apache.shiro.realm.CachingRealm" target="org.apache.shiro.authc.LogoutAware">
+              <point x="62.25" y="-18.0" />
+              <point x="547.25" y="66.0" />
+              <point x="711.25" y="66.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="org.apache.shiro.realm.AuthorizingRealm" target="org.apache.shiro.realm.AuthenticatingRealm">
+              <point x="0.0" y="-18.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="org.apache.shiro.realm.CachingRealm" target="org.apache.shiro.realm.Realm">
+              <point x="20.75" y="-18.0" />
+              <point x="505.75" y="56.0" />
+              <point x="556.25" y="56.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="org.apache.shiro.realm.AuthorizingRealm" target="org.apache.shiro.authz.Authorizer">
+              <point x="-77.19999999999993" y="-18.0" />
+              <point x="461.80000000000007" y="238.0" />
+              <point x="70.0" y="238.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="org.apache.shiro.realm.AuthorizingRealm" target="org.apache.shiro.authz.permission.RolePermissionResolverAware">
+              <point x="77.20000000000005" y="-18.0" />
+              <point x="616.2" y="238.0" />
+              <point x="848.5" y="238.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="org.apache.shiro.realm.CachingRealm" target="org.apache.shiro.util.Nameable">
+              <point x="-20.75" y="-18.0" />
+              <point x="464.25" y="56.0" />
+              <point x="413.75" y="56.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="481.0" y="142.5" />
+          <SelectedNodes>
+            <node>org.apache.shiro.realm.AuthorizingRealm</node>
+            <node>org.apache.shiro.authz.permission.PermissionResolverAware</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-all/1.3.2/shiro-all-1.3.2.jar!/org/apache/shiro/subject/SimplePrincipalCollection.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="61" column="18" lean-forward="false" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="18" />
+          <folding>
+            <element signature="e#1844#1845#0" expanded="true" />
+            <element signature="e#1913#1914#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-all/1.3.2/shiro-all-1.3.2.jar!/org/apache/shiro/web/filter/authz/RolesAuthorizationFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="23" column="34" lean-forward="false" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-all/1.3.2/shiro-all-1.3.2.jar!/org/apache/shiro/subject/support/DelegatingSubject.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="160" column="66" lean-forward="false" selection-start-line="160" selection-start-column="66" selection-end-line="160" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-all/1.3.2/shiro-all-1.3.2.jar!/org/apache/shiro/authz/ModularRealmAuthorizer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="246" column="76" lean-forward="true" selection-start-line="246" selection-start-column="76" selection-end-line="246" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-all/1.3.2/shiro-all-1.3.2.jar!/org/apache/shiro/realm/AuthorizingRealm.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="445" column="67" lean-forward="false" selection-start-line="445" selection-start-column="67" selection-end-line="445" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-all/1.3.2/shiro-all-1.3.2.jar!/org/apache/shiro/authz/SimpleAuthorizationInfo.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="23" column="23" lean-forward="false" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+          <folding>
+            <element signature="e#584#585#0" expanded="true" />
+            <element signature="e#617#618#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-all/1.3.2/shiro-all-1.3.2.jar!/org/apache/shiro/mgt/AuthorizingSecurityManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="98" column="35" lean-forward="true" selection-start-line="98" selection-start-column="35" selection-end-line="98" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>shiro:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.35287356" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web (shiro)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.35287356" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.35287356" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.35287356" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web|shiro</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.35287356" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.35287356" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
